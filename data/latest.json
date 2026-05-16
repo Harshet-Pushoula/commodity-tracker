@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T17:10:45.843203+00:00",
+  "last_updated": "2026-05-16T17:16:04.427776+00:00",
   "assets": {
     "oil": {
       "key": "oil",
@@ -13,8 +13,10 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-16T17:10:46.908486+00:00",
-      "sparkline": []
+      "fetched_at": "2026-05-16T17:16:05.451447+00:00",
+      "sparkline": [
+        109.26
+      ]
     },
     "gold": {
       "key": "gold",
@@ -28,8 +30,10 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-16T17:10:47.435759+00:00",
-      "sparkline": []
+      "fetched_at": "2026-05-16T17:16:05.889095+00:00",
+      "sparkline": [
+        4555.7998
+      ]
     },
     "wheat": {
       "key": "wheat",
@@ -43,8 +47,10 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-16T17:10:47.831598+00:00",
-      "sparkline": []
+      "fetched_at": "2026-05-16T17:16:06.412025+00:00",
+      "sparkline": [
+        635.75
+      ]
     },
     "natgas": {
       "key": "natgas",
@@ -58,8 +64,10 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-16T17:10:48.262913+00:00",
-      "sparkline": []
+      "fetched_at": "2026-05-16T17:16:06.998418+00:00",
+      "sparkline": [
+        2.96
+      ]
     },
     "eurusd": {
       "key": "eurusd",
@@ -73,8 +81,10 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-16T17:10:48.667844+00:00",
-      "sparkline": []
+      "fetched_at": "2026-05-16T17:16:07.388894+00:00",
+      "sparkline": [
+        1.1628
+      ]
     },
     "gbpusd": {
       "key": "gbpusd",
@@ -88,8 +98,10 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-16T17:10:48.932763+00:00",
-      "sparkline": []
+      "fetched_at": "2026-05-16T17:16:07.678569+00:00",
+      "sparkline": [
+        1.3358
+      ]
     },
     "usdinr": {
       "key": "usdinr",
@@ -103,8 +115,10 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-16T17:10:49.480849+00:00",
-      "sparkline": []
+      "fetched_at": "2026-05-16T17:16:07.983492+00:00",
+      "sparkline": [
+        95.97
+      ]
     },
     "usdcny": {
       "key": "usdcny",
@@ -118,8 +132,10 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-16T17:10:50.028018+00:00",
-      "sparkline": []
+      "fetched_at": "2026-05-16T17:16:08.280213+00:00",
+      "sparkline": [
+        6.8106
+      ]
     }
   }
 }
