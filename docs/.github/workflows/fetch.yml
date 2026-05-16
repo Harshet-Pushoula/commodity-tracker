@@ -1,0 +1,68 @@
+name: Fetch commodity and currency data
+
+on:
+  # Run every 4 hours
+  schedule:
+    - cron: "0 */4 * * *"
+  # Allow manual trigger from the Actions tab (essential for seeding data on day one)
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit data files back to repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run fetcher
+        run: python fetch.py
+
+      - name: Trim history to 90 days
+        run: |
+          python - <<'EOF'
+          import json
+          from pathlib import Path
+          from datetime import datetime, timezone, timedelta
+
+          path = Path("data/history.json")
+          if not path.exists():
+              print("No history.json yet, skipping trim.")
+              exit()
+
+          history = json.loads(path.read_text())
+          before = len(history)
+          cutoff = datetime.now(timezone.utc) - timedelta(days=90)
+
+          trimmed = []
+          for entry in history:
+              try:
+                  ts = datetime.fromisoformat(entry["timestamp"])
+                  if ts >= cutoff:
+                      trimmed.append(entry)
+              except Exception:
+                  pass
+
+          path.write_text(json.dumps(trimmed, indent=2))
+          print(f"Trimmed history: {before} → {len(trimmed)} entries")
+          EOF
+
+      - name: Commit data files if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json data/history.json data/errors.json
+          # Only commit if something actually changed — prevents empty commits
+          git diff --staged --quiet || git commit -m "data: update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
