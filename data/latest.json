@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T17:16:04.427776+00:00",
+  "last_updated": "2026-05-16T20:44:02.371858+00:00",
   "assets": {
     "oil": {
       "key": "oil",
@@ -13,8 +13,9 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-16T17:16:05.451447+00:00",
+      "fetched_at": "2026-05-16T20:44:03.000885+00:00",
       "sparkline": [
+        109.26,
         109.26
       ]
     },
@@ -30,8 +31,9 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-16T17:16:05.889095+00:00",
+      "fetched_at": "2026-05-16T20:44:03.487921+00:00",
       "sparkline": [
+        4555.7998,
         4555.7998
       ]
     },
@@ -47,8 +49,9 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-16T17:16:06.412025+00:00",
+      "fetched_at": "2026-05-16T20:44:04.087822+00:00",
       "sparkline": [
+        635.75,
         635.75
       ]
     },
@@ -64,8 +67,9 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-16T17:16:06.998418+00:00",
+      "fetched_at": "2026-05-16T20:44:04.557118+00:00",
       "sparkline": [
+        2.96,
         2.96
       ]
     },
@@ -81,8 +85,9 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-16T17:16:07.388894+00:00",
+      "fetched_at": "2026-05-16T20:44:04.747088+00:00",
       "sparkline": [
+        1.1628,
         1.1628
       ]
     },
@@ -98,8 +103,9 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-16T17:16:07.678569+00:00",
+      "fetched_at": "2026-05-16T20:44:04.885362+00:00",
       "sparkline": [
+        1.3358,
         1.3358
       ]
     },
@@ -115,8 +121,9 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-16T17:16:07.983492+00:00",
+      "fetched_at": "2026-05-16T20:44:05.049633+00:00",
       "sparkline": [
+        95.97,
         95.97
       ]
     },
@@ -132,8 +139,9 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-16T17:16:08.280213+00:00",
+      "fetched_at": "2026-05-16T20:44:05.458588+00:00",
       "sparkline": [
+        6.8106,
         6.8106
       ]
     }
