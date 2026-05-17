@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T06:43:32.135370+00:00",
+  "last_updated": "2026-05-17T09:46:18.656882+00:00",
   "assets": {
     "oil": {
       "key": "oil",
@@ -13,8 +13,9 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-17T06:43:32.722849+00:00",
+      "fetched_at": "2026-05-17T09:46:19.045162+00:00",
       "sparkline": [
+        109.26,
         109.26,
         109.26,
         109.26,
@@ -33,12 +34,13 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-17T06:43:32.958055+00:00",
+      "fetched_at": "2026-05-17T09:46:19.242410+00:00",
       "sparkline": [
         4555.7998,
         4555.7998,
         4555.7998,
-        4555.7998
+        4555.7998,
+        4561.8999
       ]
     },
     "wheat": {
@@ -53,8 +55,9 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-17T06:43:33.187748+00:00",
+      "fetched_at": "2026-05-17T09:46:19.401513+00:00",
       "sparkline": [
+        635.75,
         635.75,
         635.75,
         635.75,
@@ -73,8 +76,9 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-17T06:43:33.415776+00:00",
+      "fetched_at": "2026-05-17T09:46:19.543310+00:00",
       "sparkline": [
+        2.96,
         2.96,
         2.96,
         2.96,
@@ -93,8 +97,9 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-17T06:43:33.795994+00:00",
+      "fetched_at": "2026-05-17T09:46:19.846932+00:00",
       "sparkline": [
+        1.1628,
         1.1628,
         1.1628,
         1.1628,
@@ -113,8 +118,9 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-17T06:43:34.035998+00:00",
+      "fetched_at": "2026-05-17T09:46:20.330561+00:00",
       "sparkline": [
+        1.3358,
         1.3358,
         1.3358,
         1.3358,
@@ -133,8 +139,9 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-17T06:43:34.597212+00:00",
+      "fetched_at": "2026-05-17T09:46:20.827531+00:00",
       "sparkline": [
+        95.97,
         95.97,
         95.97,
         95.97,
@@ -153,8 +160,9 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-17T06:43:34.837864+00:00",
+      "fetched_at": "2026-05-17T09:46:20.953899+00:00",
       "sparkline": [
+        6.8106,
         6.8106,
         6.8106,
         6.8106,
