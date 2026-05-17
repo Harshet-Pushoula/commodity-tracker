@@ -520,7 +520,7 @@ async function init() {
   renderSkeletons();
 
   // Cache-bust with timestamp so GitHub Pages doesn't serve stale files
-  const url = `../data/latest.json?t=${Date.now()}`;
+  const url = `https://raw.githubusercontent.com/Harshet-Pushoula/commodity-tracker/main/data/latest.json?t=${Date.now()}`;
   try {
     const res = await fetch(url);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
