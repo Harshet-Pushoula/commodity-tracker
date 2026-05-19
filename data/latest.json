@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T18:05:12.282444+00:00",
+  "last_updated": "2026-05-19T21:18:45.208615+00:00",
   "assets": {
     "oil": {
       "key": "oil",
@@ -7,13 +7,13 @@
       "category": "commodity",
       "unit": "USD/barrel",
       "note": null,
-      "price": 110.52,
-      "change_pct": 0.005733,
+      "price": 111.0,
+      "change_pct": 0.010101,
       "status": "fresh",
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-19T18:05:12.555249+00:00",
+      "fetched_at": "2026-05-19T21:18:46.328853+00:00",
       "sparkline": [
         109.26,
         109.26,
@@ -32,7 +32,8 @@
         109.97,
         110.33,
         110.88,
-        110.73
+        110.73,
+        110.52
       ]
     },
     "gold": {
@@ -41,13 +42,13 @@
       "category": "commodity",
       "unit": "USD/troy oz",
       "note": null,
-      "price": 4503.3999,
+      "price": 4485.3999,
       "change_pct": null,
       "status": "fresh",
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-19T18:05:12.666253+00:00",
+      "fetched_at": "2026-05-19T21:18:46.888458+00:00",
       "sparkline": [
         4555.7998,
         4555.7998,
@@ -66,7 +67,8 @@
         4553.5,
         4547.8999,
         4545.6001,
-        4494.6001
+        4494.6001,
+        4503.3999
       ]
     },
     "wheat": {
@@ -75,13 +77,13 @@
       "category": "commodity",
       "unit": "USD/bushel",
       "note": null,
-      "price": 662.0,
+      "price": 668.0,
       "change_pct": null,
       "status": "fresh",
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-19T18:05:12.780840+00:00",
+      "fetched_at": "2026-05-19T21:18:47.433047+00:00",
       "sparkline": [
         635.75,
         635.75,
@@ -100,7 +102,8 @@
         670.0,
         673.0,
         673.0,
-        669.0
+        669.0,
+        662.0
       ]
     },
     "natgas": {
@@ -109,13 +112,13 @@
       "category": "commodity",
       "unit": "USD/MMBtu",
       "note": null,
-      "price": 3.101,
-      "change_pct": 0.025463,
+      "price": 3.116,
+      "change_pct": 0.030423,
       "status": "fresh",
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-05-19T18:05:12.905119+00:00",
+      "fetched_at": "2026-05-19T21:18:48.015225+00:00",
       "sparkline": [
         2.96,
         2.96,
@@ -134,7 +137,8 @@
         3.026,
         3.017,
         3.044,
-        3.079
+        3.079,
+        3.101
       ]
     },
     "eurusd": {
@@ -149,7 +153,7 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-19T18:05:13.693892+00:00",
+      "fetched_at": "2026-05-19T21:18:48.783157+00:00",
       "sparkline": [
         1.1628,
         1.1628,
@@ -168,6 +172,7 @@
         1.1648,
         1.1648,
         1.1648,
+        1.162,
         1.162
       ]
     },
@@ -183,7 +188,7 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-19T18:05:14.296868+00:00",
+      "fetched_at": "2026-05-19T21:18:49.071941+00:00",
       "sparkline": [
         1.3358,
         1.3358,
@@ -202,6 +207,7 @@
         1.3385,
         1.3385,
         1.3385,
+        1.3407,
         1.3407
       ]
     },
@@ -217,7 +223,7 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-19T18:05:14.861428+00:00",
+      "fetched_at": "2026-05-19T21:18:49.667627+00:00",
       "sparkline": [
         95.97,
         95.97,
@@ -236,6 +242,7 @@
         96.35,
         96.35,
         96.35,
+        96.54,
         96.54
       ]
     },
@@ -251,7 +258,7 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-05-19T18:05:15.421039+00:00",
+      "fetched_at": "2026-05-19T21:18:50.248029+00:00",
       "sparkline": [
         6.8106,
         6.8106,
@@ -270,6 +277,7 @@
         6.8002,
         6.8002,
         6.8002,
+        6.8061,
         6.8061
       ]
     }
