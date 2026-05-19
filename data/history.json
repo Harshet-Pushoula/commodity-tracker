@@ -628,5 +628,50 @@
         "status": "fresh"
       }
     }
+  },
+  {
+    "timestamp": "2026-05-19T03:27:41.369049+00:00",
+    "assets": {
+      "oil": {
+        "price": 109.97,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "gold": {
+        "price": 4553.5,
+        "change_pct": 0.001474,
+        "status": "fresh"
+      },
+      "wheat": {
+        "price": 670.0,
+        "change_pct": 0.026034,
+        "status": "fresh"
+      },
+      "natgas": {
+        "price": 3.026,
+        "change_pct": 0.000992,
+        "status": "fresh"
+      },
+      "eurusd": {
+        "price": 1.1648,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "gbpusd": {
+        "price": 1.3385,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "usdinr": {
+        "price": 96.35,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "usdcny": {
+        "price": 6.8002,
+        "change_pct": null,
+        "status": "fresh"
+      }
+    }
   }
 ]
