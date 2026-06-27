@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T21:17:39.328706+00:00",
+  "last_updated": "2026-06-27T02:56:40.044020+00:00",
   "assets": {
     "oil": {
       "key": "oil",
@@ -13,9 +13,8 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-06-26T21:17:39.625361+00:00",
+      "fetched_at": "2026-06-27T02:56:40.568138+00:00",
       "sparkline": [
-        80.59,
         79.85,
         80.59,
         80.59,
@@ -44,7 +43,8 @@
         73.8,
         72.97,
         72.67,
-        72.71
+        72.71,
+        73.57
       ]
     },
     "gold": {
@@ -59,9 +59,8 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-06-26T21:17:39.775735+00:00",
+      "fetched_at": "2026-06-27T02:56:40.863045+00:00",
       "sparkline": [
-        4172.8999,
         4245.8999,
         4172.8999,
         4193.1,
@@ -90,7 +89,8 @@
         4049.5,
         4064.1001,
         4095.8,
-        4092.3999
+        4092.3999,
+        4103.0
       ]
     },
     "wheat": {
@@ -105,9 +105,8 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-06-26T21:17:39.929008+00:00",
+      "fetched_at": "2026-06-27T02:56:41.000114+00:00",
       "sparkline": [
-        613.25,
         614.0,
         613.25,
         611.5,
@@ -136,7 +135,8 @@
         596.0,
         591.0,
         590.25,
-        589.25
+        589.25,
+        588.75
       ]
     },
     "natgas": {
@@ -151,9 +151,8 @@
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-06-26T21:17:40.117412+00:00",
+      "fetched_at": "2026-06-27T02:56:41.135715+00:00",
       "sparkline": [
-        3.198,
         3.233,
         3.198,
         3.277,
@@ -182,7 +181,8 @@
         3.325,
         3.335,
         3.329,
-        3.341
+        3.341,
+        3.287
       ]
     },
     "eurusd": {
@@ -192,14 +192,13 @@
       "unit": "USD per EUR",
       "note": "ECB daily rate",
       "price": 1.1401,
-      "change_pct": 0.005202,
+      "change_pct": null,
       "status": "fresh",
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-06-26T21:17:40.473934+00:00",
+      "fetched_at": "2026-06-27T02:56:41.362007+00:00",
       "sparkline": [
-        1.1467,
         1.1467,
         1.1467,
         1.1467,
@@ -228,6 +227,7 @@
         1.1342,
         1.1342,
         1.1401,
+        1.1401,
         1.1401
       ]
     },
@@ -238,14 +238,13 @@
       "unit": "USD per GBP",
       "note": "ECB daily rate",
       "price": 1.3218,
-      "change_pct": 0.004407,
+      "change_pct": null,
       "status": "fresh",
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-06-26T21:17:40.619598+00:00",
+      "fetched_at": "2026-06-27T02:56:41.510350+00:00",
       "sparkline": [
-        1.3233,
         1.3233,
         1.3233,
         1.3233,
@@ -274,6 +273,7 @@
         1.316,
         1.316,
         1.3218,
+        1.3218,
         1.3218
       ]
     },
@@ -284,14 +284,13 @@
       "unit": "INR per USD",
       "note": "ECB daily rate",
       "price": 94.4,
-      "change_pct": 0.000106,
+      "change_pct": null,
       "status": "fresh",
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-06-26T21:17:40.760949+00:00",
+      "fetched_at": "2026-06-27T02:56:41.954364+00:00",
       "sparkline": [
-        94.33,
         94.33,
         94.33,
         94.33,
@@ -320,6 +319,7 @@
         94.39,
         94.39,
         94.4,
+        94.4,
         94.4
       ]
     },
@@ -335,13 +335,12 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-06-26T21:17:40.934037+00:00",
+      "fetched_at": "2026-06-27T02:56:42.385875+00:00",
       "sparkline": [
         6.7693,
         6.7693,
         6.7693,
         6.7693,
-        6.7693,
         6.7748,
         6.7748,
         6.7748,
@@ -359,6 +358,7 @@
         6.8109,
         6.8109,
         6.8109,
+        6.7982,
         6.7982,
         6.7982,
         6.7982,
