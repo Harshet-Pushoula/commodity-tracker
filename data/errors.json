@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "run": "2026-07-08T06:26:47.497890+00:00",
+    "aborted": false,
+    "assets": {
+      "oil": {
+        "timestamp": "2026-07-08T06:26:47.497890+00:00",
+        "errors": [
+          "primary_fetch_failed"
+        ],
+        "status": "stale"
+      }
+    }
+  }
+]
