@@ -44,5 +44,18 @@
         "status": "stale"
       }
     }
+  },
+  {
+    "run": "2026-07-15T20:58:28.351973+00:00",
+    "aborted": false,
+    "assets": {
+      "oil": {
+        "timestamp": "2026-07-15T20:58:28.351973+00:00",
+        "errors": [
+          "primary_fetch_failed"
+        ],
+        "status": "stale"
+      }
+    }
   }
 ]
