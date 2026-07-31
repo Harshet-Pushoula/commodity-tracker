@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T10:36:51.597708+00:00",
+  "last_updated": "2026-07-31T14:01:46.176410+00:00",
   "assets": {
     "oil": {
       "key": "oil",
@@ -7,15 +7,14 @@
       "category": "commodity",
       "unit": "USD/barrel",
       "note": null,
-      "price": 89.63,
-      "change_pct": 0.017944,
+      "price": 90.27,
+      "change_pct": 0.025213,
       "status": "fresh",
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-07-31T10:36:53.146981+00:00",
+      "fetched_at": "2026-07-31T14:01:46.580777+00:00",
       "sparkline": [
-        96.78,
         96.78,
         96.78,
         96.78,
@@ -44,7 +43,8 @@
         89.84,
         89.45,
         87.98,
-        87.6
+        87.6,
+        89.63
       ]
     },
     "gold": {
@@ -53,15 +53,14 @@
       "category": "commodity",
       "unit": "USD/troy oz",
       "note": null,
-      "price": 4110.0,
+      "price": 4079.7,
       "change_pct": null,
       "status": "fresh",
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-07-31T10:36:53.307806+00:00",
+      "fetched_at": "2026-07-31T14:01:46.840823+00:00",
       "sparkline": [
-        4070.8,
         4070.8,
         4070.8,
         4070.8,
@@ -90,7 +89,8 @@
         4164.1001,
         4162.0,
         4140.0,
-        4141.1001
+        4141.1001,
+        4110.0
       ]
     },
     "wheat": {
@@ -99,15 +99,14 @@
       "category": "commodity",
       "unit": "USD/bushel",
       "note": null,
-      "price": 657.75,
-      "change_pct": 0.001523,
+      "price": 645.25,
+      "change_pct": null,
       "status": "fresh",
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-07-31T10:36:53.463773+00:00",
+      "fetched_at": "2026-07-31T14:01:47.047764+00:00",
       "sparkline": [
-        678.0,
         678.0,
         678.0,
         678.0,
@@ -136,7 +135,8 @@
         668.0,
         663.5,
         656.25,
-        656.25
+        656.25,
+        657.75
       ]
     },
     "natgas": {
@@ -145,15 +145,14 @@
       "category": "commodity",
       "unit": "USD/MMBtu",
       "note": null,
-      "price": 2.776,
-      "change_pct": 0.002528,
+      "price": 2.744,
+      "change_pct": null,
       "status": "fresh",
       "stale": false,
       "stale_since": null,
       "source": "yfinance",
-      "fetched_at": "2026-07-31T10:36:53.612410+00:00",
+      "fetched_at": "2026-07-31T14:01:47.207824+00:00",
       "sparkline": [
-        2.888,
         2.888,
         2.888,
         2.888,
@@ -182,7 +181,8 @@
         2.76,
         2.748,
         2.765,
-        2.777
+        2.777,
+        2.776
       ]
     },
     "eurusd": {
@@ -197,9 +197,8 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-07-31T10:36:53.975616+00:00",
+      "fetched_at": "2026-07-31T14:01:49.372754+00:00",
       "sparkline": [
-        1.1377,
         1.1377,
         1.1377,
         1.1377,
@@ -228,6 +227,7 @@
         1.1476,
         1.1476,
         1.1476,
+        1.1476,
         1.1476
       ]
     },
@@ -243,7 +243,7 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-07-31T10:36:54.159426+00:00",
+      "fetched_at": "2026-07-31T14:01:59.546955+00:00",
       "sparkline": [
         1.3324,
         1.3324,
@@ -251,7 +251,6 @@
         1.3324,
         1.3324,
         1.3324,
-        1.3324,
         1.3317,
         1.3317,
         1.3317,
@@ -271,6 +270,7 @@
         1.3289,
         1.3289,
         1.3289,
+        1.3389,
         1.3389,
         1.3389,
         1.3389,
@@ -289,9 +289,8 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-07-31T10:36:54.573995+00:00",
+      "fetched_at": "2026-07-31T14:02:02.568964+00:00",
       "sparkline": [
-        96.56,
         96.56,
         96.56,
         96.56,
@@ -320,6 +319,7 @@
         95.69,
         95.69,
         95.69,
+        95.69,
         95.69
       ]
     },
@@ -335,7 +335,7 @@
       "stale": false,
       "stale_since": null,
       "source": "frankfurter",
-      "fetched_at": "2026-07-31T10:36:55.020244+00:00",
+      "fetched_at": "2026-07-31T14:02:12.747489+00:00",
       "sparkline": [
         6.7722,
         6.7722,
@@ -343,7 +343,6 @@
         6.7722,
         6.7722,
         6.7722,
-        6.7722,
         6.7661,
         6.7661,
         6.7661,
@@ -363,6 +362,7 @@
         6.7663,
         6.7663,
         6.7663,
+        6.7551,
         6.7551,
         6.7551,
         6.7551,
