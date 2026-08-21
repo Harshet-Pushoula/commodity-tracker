@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-05-22T21:08:35.415039+00:00",
-    "assets": {
-      "oil": {
-        "price": 104.05,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "gold": {
-        "price": 4510.6001,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "wheat": {
-        "price": 647.0,
-        "change_pct": 0.002712,
-        "status": "fresh"
-      },
-      "natgas": {
-        "price": 3.032,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "eurusd": {
-        "price": 1.1595,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "gbpusd": {
-        "price": 1.3417,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "usdinr": {
-        "price": 95.7,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "usdcny": {
-        "price": 6.7953,
-        "change_pct": null,
-        "status": "fresh"
-      }
-    }
-  },
-  {
     "timestamp": "2026-05-23T02:51:15.601171+00:00",
     "assets": {
       "oil": {
@@ -22845,6 +22800,51 @@
       "gbpusd": {
         "price": 1.3626,
         "change_pct": 0.005164,
+        "status": "fresh"
+      },
+      "usdinr": {
+        "price": 95.71,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "usdcny": {
+        "price": 6.7236,
+        "change_pct": null,
+        "status": "fresh"
+      }
+    }
+  },
+  {
+    "timestamp": "2026-08-21T01:10:38.708623+00:00",
+    "assets": {
+      "oil": {
+        "price": 93.32,
+        "change_pct": 0.016558,
+        "status": "fresh"
+      },
+      "gold": {
+        "price": 4570.2002,
+        "change_pct": 0.003183,
+        "status": "fresh"
+      },
+      "wheat": {
+        "price": 699.5,
+        "change_pct": 0.001073,
+        "status": "fresh"
+      },
+      "natgas": {
+        "price": 2.762,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "eurusd": {
+        "price": 1.1681,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "gbpusd": {
+        "price": 1.3626,
+        "change_pct": null,
         "status": "fresh"
       },
       "usdinr": {
