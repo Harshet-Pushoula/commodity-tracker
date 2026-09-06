@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-06-08T15:49:38.178104+00:00",
-    "assets": {
-      "oil": {
-        "price": 94.53,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "gold": {
-        "price": 4360.0,
-        "change_pct": 0.004655,
-        "status": "fresh"
-      },
-      "wheat": {
-        "price": 586.25,
-        "change_pct": 0.018679,
-        "status": "fresh"
-      },
-      "natgas": {
-        "price": 3.115,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "eurusd": {
-        "price": 1.154,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "gbpusd": {
-        "price": 1.3363,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "usdinr": {
-        "price": 95.71,
-        "change_pct": 0.008004,
-        "status": "fresh"
-      },
-      "usdcny": {
-        "price": 6.7819,
-        "change_pct": 0.002409,
-        "status": "fresh"
-      }
-    }
-  },
-  {
     "timestamp": "2026-06-08T18:25:23.688899+00:00",
     "assets": {
       "oil": {
@@ -22456,6 +22411,51 @@
   },
   {
     "timestamp": "2026-09-06T14:56:29.146404+00:00",
+    "assets": {
+      "oil": {
+        "price": 96.28,
+        "change_pct": 0.002917,
+        "status": "fresh"
+      },
+      "gold": {
+        "price": 4476.6001,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "wheat": {
+        "price": 734.0,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "natgas": {
+        "price": 2.975,
+        "change_pct": 0.018836,
+        "status": "fresh"
+      },
+      "eurusd": {
+        "price": 1.1622,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "gbpusd": {
+        "price": 1.353,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "usdinr": {
+        "price": 94.49,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "usdcny": {
+        "price": 6.7109,
+        "change_pct": null,
+        "status": "fresh"
+      }
+    }
+  },
+  {
+    "timestamp": "2026-09-06T18:01:05.486455+00:00",
     "assets": {
       "oil": {
         "price": 96.28,
