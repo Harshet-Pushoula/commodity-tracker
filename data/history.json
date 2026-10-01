@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-07-03T17:24:10.377831+00:00",
-    "assets": {
-      "oil": {
-        "price": 72.13,
-        "change_pct": 0.019938,
-        "status": "fresh"
-      },
-      "gold": {
-        "price": 4187.2998,
-        "change_pct": 0.025721,
-        "status": "fresh"
-      },
-      "wheat": {
-        "price": 590.5,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "natgas": {
-        "price": 3.245,
-        "change_pct": 0.015649,
-        "status": "fresh"
-      },
-      "eurusd": {
-        "price": 1.1448,
-        "change_pct": 0.004299,
-        "status": "fresh"
-      },
-      "gbpusd": {
-        "price": 1.3355,
-        "change_pct": 0.003683,
-        "status": "fresh"
-      },
-      "usdinr": {
-        "price": 95.21,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "usdcny": {
-        "price": 6.7814,
-        "change_pct": null,
-        "status": "fresh"
-      }
-    }
-  },
-  {
     "timestamp": "2026-07-03T21:04:17.363654+00:00",
     "assets": {
       "oil": {
@@ -21260,6 +21215,51 @@
       "natgas": {
         "price": 2.988,
         "change_pct": 0.003358,
+        "status": "fresh"
+      },
+      "eurusd": {
+        "price": 1.1298,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "gbpusd": {
+        "price": 1.3234,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "usdinr": {
+        "price": 96.33,
+        "change_pct": 0.005218,
+        "status": "fresh"
+      },
+      "usdcny": {
+        "price": 6.7045,
+        "change_pct": null,
+        "status": "fresh"
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-01T20:47:47.265940+00:00",
+    "assets": {
+      "oil": {
+        "price": 102.24,
+        "change_pct": 0.055871,
+        "status": "fresh"
+      },
+      "gold": {
+        "price": 4204.2002,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "wheat": {
+        "price": 681.75,
+        "change_pct": 0.015264,
+        "status": "fresh"
+      },
+      "natgas": {
+        "price": 2.949,
+        "change_pct": null,
         "status": "fresh"
       },
       "eurusd": {
