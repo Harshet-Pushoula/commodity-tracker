@@ -1,140 +1,5 @@
 [
   {
-    "timestamp": "2026-07-11T06:11:18.921652+00:00",
-    "assets": {
-      "oil": {
-        "price": 76.01,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "gold": {
-        "price": 4104.1001,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "wheat": {
-        "price": 632.0,
-        "change_pct": 0.019766,
-        "status": "fresh"
-      },
-      "natgas": {
-        "price": 2.94,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "eurusd": {
-        "price": 1.143,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "gbpusd": {
-        "price": 1.3423,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "usdinr": {
-        "price": 95.34,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "usdcny": {
-        "price": 6.7745,
-        "change_pct": null,
-        "status": "fresh"
-      }
-    }
-  },
-  {
-    "timestamp": "2026-07-11T09:27:20.752874+00:00",
-    "assets": {
-      "oil": {
-        "price": 76.01,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "gold": {
-        "price": 4104.1001,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "wheat": {
-        "price": 632.0,
-        "change_pct": 0.019766,
-        "status": "fresh"
-      },
-      "natgas": {
-        "price": 2.94,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "eurusd": {
-        "price": 1.143,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "gbpusd": {
-        "price": 1.3423,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "usdinr": {
-        "price": 95.34,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "usdcny": {
-        "price": 6.7745,
-        "change_pct": null,
-        "status": "fresh"
-      }
-    }
-  },
-  {
-    "timestamp": "2026-07-11T13:15:17.625750+00:00",
-    "assets": {
-      "oil": {
-        "price": 76.01,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "gold": {
-        "price": 4104.1001,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "wheat": {
-        "price": 632.0,
-        "change_pct": 0.019766,
-        "status": "fresh"
-      },
-      "natgas": {
-        "price": 2.94,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "eurusd": {
-        "price": 1.143,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "gbpusd": {
-        "price": 1.3423,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "usdinr": {
-        "price": 95.34,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "usdcny": {
-        "price": 6.7745,
-        "change_pct": null,
-        "status": "fresh"
-      }
-    }
-  },
-  {
     "timestamp": "2026-07-11T16:56:13.481908+00:00",
     "assets": {
       "oil": {
@@ -20450,6 +20315,51 @@
       "natgas": {
         "price": 3.132,
         "change_pct": null,
+        "status": "fresh"
+      },
+      "eurusd": {
+        "price": 1.1186,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "gbpusd": {
+        "price": 1.3207,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "usdinr": {
+        "price": 96.78,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "usdcny": {
+        "price": 6.7023,
+        "change_pct": null,
+        "status": "fresh"
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-09T14:58:22.236015+00:00",
+    "assets": {
+      "oil": {
+        "price": 104.42,
+        "change_pct": 0.014574,
+        "status": "fresh"
+      },
+      "gold": {
+        "price": 4207.0,
+        "change_pct": 0.001118,
+        "status": "fresh"
+      },
+      "wheat": {
+        "price": 685.0,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "natgas": {
+        "price": 3.231,
+        "change_pct": 0.03128,
         "status": "fresh"
       },
       "eurusd": {
