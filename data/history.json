@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-07-28T02:24:57.990856+00:00",
-    "assets": {
-      "oil": {
-        "price": 87.42,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "gold": {
-        "price": 4046.8999,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "wheat": {
-        "price": 664.0,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "natgas": {
-        "price": 2.763,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "eurusd": {
-        "price": 1.1389,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "gbpusd": {
-        "price": 1.3317,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "usdinr": {
-        "price": 95.92,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "usdcny": {
-        "price": 6.7661,
-        "change_pct": null,
-        "status": "fresh"
-      }
-    }
-  },
-  {
     "timestamp": "2026-07-28T06:25:26.742006+00:00",
     "assets": {
       "oil": {
@@ -18964,6 +18919,51 @@
       },
       "natgas": {
         "price": 3.05,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "eurusd": {
+        "price": 1.1193,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "gbpusd": {
+        "price": 1.3368,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "usdinr": {
+        "price": 94.94,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "usdcny": {
+        "price": 6.6702,
+        "change_pct": null,
+        "status": "fresh"
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-26T03:17:13.707453+00:00",
+    "assets": {
+      "oil": {
+        "price": 109.45,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "gold": {
+        "price": 4022.1001,
+        "change_pct": 0.003543,
+        "status": "fresh"
+      },
+      "wheat": {
+        "price": 623.5,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "natgas": {
+        "price": 3.0,
         "change_pct": null,
         "status": "fresh"
       },
