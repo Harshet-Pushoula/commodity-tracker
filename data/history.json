@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "2026-08-01T16:57:27.612940+00:00",
-    "assets": {
-      "oil": {
-        "price": 90.12,
-        "change_pct": 0.023509,
-        "status": "fresh"
-      },
-      "gold": {
-        "price": 4049.1001,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "wheat": {
-        "price": 639.25,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "natgas": {
-        "price": 2.747,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "eurusd": {
-        "price": 1.1485,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "gbpusd": {
-        "price": 1.3421,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "usdinr": {
-        "price": 95.39,
-        "change_pct": null,
-        "status": "fresh"
-      },
-      "usdcny": {
-        "price": 6.7513,
-        "change_pct": null,
-        "status": "fresh"
-      }
-    }
-  },
-  {
     "timestamp": "2026-08-01T20:50:03.629150+00:00",
     "assets": {
       "oil": {
@@ -18444,6 +18399,51 @@
       },
       "usdcny": {
         "price": 6.6616,
+        "change_pct": null,
+        "status": "fresh"
+      }
+    }
+  },
+  {
+    "timestamp": "2026-10-30T20:24:06.270766+00:00",
+    "assets": {
+      "oil": {
+        "price": 112.32,
+        "change_pct": 0.002231,
+        "status": "fresh"
+      },
+      "gold": {
+        "price": 3892.6001,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "wheat": {
+        "price": 603.25,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "natgas": {
+        "price": 2.889,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "eurusd": {
+        "price": 1.1172,
+        "change_pct": 0.003774,
+        "status": "fresh"
+      },
+      "gbpusd": {
+        "price": 1.3399,
+        "change_pct": 0.006158,
+        "status": "fresh"
+      },
+      "usdinr": {
+        "price": 94.95,
+        "change_pct": null,
+        "status": "fresh"
+      },
+      "usdcny": {
+        "price": 6.6529,
         "change_pct": null,
         "status": "fresh"
       }
